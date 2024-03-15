@@ -1,2 +1,2 @@
-<h1 align-text="center">Automating NMAP Scan </h1>
+<h1 align="center">Automating NMAP Scan </h1>
 
