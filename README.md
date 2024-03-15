@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="https://imgur.com/a/11I36gN">
+<img align="center" src="https://i.imgur.com/0peJDd2.png">
 </p>
 
 <h1 align="center">Nmap Script</h1>
@@ -22,10 +22,11 @@
 </p>
 <br>
 <br>
-<br>
 
 <p align="center">
-<img src="https://imgur.com/3UtfAU4">
+<img src="https://i.imgur.com/3UtfAU4.png">
+ <br>
+<img src="https://i.imgur.com/XaVSXpL.png">
 <br>
 <b>
  Note: Do not scan networks that you don't have permission to scan! This program is intended for education purposes only. Using this program for unauthorized network scanning or malicious activities is strictly prohibited. I am not responsible for any misuse or legal repercussions that may arise from unauthorized scanning.
