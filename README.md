@@ -5,6 +5,7 @@
 <p>
  Repeatedly typing commands can be tiresome. I've developed this script with the assistance of online research and AI, testing it to automate my nmap scans effortlessly. Simply input your target IP address, and the script will initiate the scan automatically. I've configured it with the -sC, -sV, -A, -T4, -p-, and -vv options for comprehensive scanning.
 <br>
+<br>
 -sC performs a script scan using the default set of scripts.
 <br>
 -sV enables version detection
